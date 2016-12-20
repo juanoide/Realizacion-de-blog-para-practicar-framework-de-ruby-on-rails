@@ -1,0 +1,36 @@
+html, body{
+  margin: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+.be-red{
+  background-color: #186B35;
+
+}
+.white{
+  color:#827975;
+
+}
+.large-padding{
+  padding: 15px 10px;
+}
+.field{
+  margin-top:1em;
+}
+.form-control{
+  border: none;
+  border-bottom: 1px solid;
+  outline:none;
+  width: 100%;
+  display: block;
+  padding: 10px 0px;
+  font-size: 1.2em;
+}
+.btn{
+  background-color:inherit;
+  border: none;
+  outline:none;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size:1.2em;
+  padding:10px 12px;
+}
